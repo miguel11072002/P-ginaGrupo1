@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 20px;
   }
   .sect {
     width: 150%;
@@ -34,4 +34,9 @@ body {
 
   p, h1, font, li, footer{
     color:#fff
+  }
+
+  table {
+    center;
+    cellspacing="10" cellpadding="10" border="3">;
   }
